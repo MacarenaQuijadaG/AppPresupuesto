@@ -1,4 +1,4 @@
-# Aplicación Stars Wars
+# Aplicación Presupuesto
 
 ## Descripción
 
