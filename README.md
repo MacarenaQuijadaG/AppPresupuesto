@@ -32,10 +32,6 @@ Instrucciones y ejemplos para ejecutar el conjunto de pruebas.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - El lenguaje utilizado
 - [Css](https://developer.mozilla.org/es/docs/Web/CSS) - El estilo
 
-## Autores ✒️
-
-- **Macarena Quijada G** - _Trabajo inicial_ - [Macarena Quijada G](https://github.com/MacarenaQuijadaG)
-
 ---
 
 ⌨️ con ❤️ por [Macarena Quijada G](https://github.com/MacarenaQuijadaG) 😊
